@@ -1,0 +1,22 @@
+# VS Code settings
+.vscode/
+
+# Virtual environment (do not upload)
+mediapipe_env/
+venv/
+env/
+.venv/
+
+# Face dataset (privacy)
+TrainingImage/
+TrainingImageLabel/
+
+# Anti spoof model weights (large)
+resources/anti_spoof_models/
+*.pth
+
+# Python cache files
+__pycache__/
+*.pyc
+
+resources/detection_model/Widerface-RetinaFace.caffemodel
