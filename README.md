@@ -92,15 +92,15 @@ AI-Powered-Attendance-System/
   ## 📸 Screenshots
 
 ### ✅ Home Screen
-![Home Screen](<img width="1919" height="1025" alt="Screenshot 2025-12-15 103125" src="https://github.com/user-attachments/assets/194f83ec-56ca-49c0-a274-f266a3d9dc37" />
+![Home Screen](https://github.com/Sumit-Sharma4/AI-Powered-Attendance-System/blob/main/VScreenShots/Screenshot%201.png
 )
 
 ### ✅ Student Registration
-![Student Registration](<img width="376" height="342" alt="Screenshot 2025-12-15 103149" src="https://github.com/user-attachments/assets/8b4556b9-f147-465c-8e3a-46e2519cc94b" />
+![Student Registration](https://github.com/Sumit-Sharma4/AI-Powered-Attendance-System/blob/main/VScreenShots/Screenshot%202.png
 )
 
 ### ✅ Attendance Marking
-![Attendance](![SC](https://github.com/user-attachments/assets/cec283b4-013b-41f9-9229-e48162d3a512)
+![Attendance](https://github.com/Sumit-Sharma4/AI-Powered-Attendance-System/blob/main/VScreenShots/Screenshot%203.jpeg
 )
 
 ---
