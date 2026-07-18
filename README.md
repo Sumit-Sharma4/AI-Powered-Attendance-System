@@ -1,13 +1,13 @@
-# AI-Powered Attendance System ✅
+# AI-Powered Attendance System 
 **Face Recognition Based Smart Attendance System with Anti-Spoofing & Liveness Detection**
 
 This project is an **AI-powered attendance system** that marks attendance using **real-time face recognition** with **anti-spoofing protection** and **blink-based liveness detection** to prevent fake attendance using photos/videos.
   
-> 🔐 Focus: Secure & Smart Attendance Automation
+>  Focus: Secure & Smart Attendance Automation
 
 ---
 
-## 🚀 Key Features
+##  Key Features
 
 ✅ **Real-time Face Detection & Recognition**  
 ✅ **Blink-based Liveness Detection (MediaPipe)**  
@@ -20,7 +20,7 @@ This project is an **AI-powered attendance system** that marks attendance using 
 
 ---
 
-## 🧠 Technology Stack
+##  Technology Stack
 
 - **Python 3.x**
 - **OpenCV** (Webcam + Face Detection)
@@ -32,7 +32,7 @@ This project is an **AI-powered attendance system** that marks attendance using 
 
 ---
 
-## 📂 Project Structure
+##  Project Structure
 
 ```bash
 AI-Powered-Attendance-System/
@@ -61,7 +61,7 @@ AI-Powered-Attendance-System/
 ```
 ---
 
-## 📌 How It Works (Workflow)
+##  How It Works (Workflow)
 
 ### ✅ Step 1: Registration
 - Enter **Student/Faculty details**
@@ -82,14 +82,14 @@ AI-Powered-Attendance-System/
 
 ---
 
-## 🧪 Output
+##  Output
 - Live webcam **face detection & recognition**
 - Liveness verification using **blink detection**
 - Attendance saved automatically into a **CSV file**
 
 ---
 
-  ## 📸 Screenshots
+  ##  Screenshots
 
 ### ✅ Home Screen
 ![Home Screen](https://github.com/Sumit-Sharma4/AI-Powered-Attendance-System/blob/main/VScreenShots/Screenshot%201.png
@@ -105,7 +105,7 @@ AI-Powered-Attendance-System/
 
 ---
 
-## ✨ Future Enhancements
+##  Future Enhancements
 ✅ Web Dashboard (Flask/Django) for admin  
 ✅ Cloud Database Integration (MongoDB/MySQL)  
 ✅ QR + Face Hybrid Attendance  
@@ -114,6 +114,6 @@ AI-Powered-Attendance-System/
 
 ---
 
-## 👨‍💻 Author
+##  Author
 **Sumit Sharma**  
 
