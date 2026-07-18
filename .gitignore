@@ -1,7 +1,7 @@
 # VS Code settings
 .vscode/
 
-# Virtual environment (do not upload)
+# Virtual environment
 mediapipe_env/
 venv/
 env/
